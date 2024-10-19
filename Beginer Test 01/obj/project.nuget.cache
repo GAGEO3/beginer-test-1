@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aPRUBftU4xA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yvonn\\source\\repos\\Beginer Test 01\\Beginer Test 01\\Beginer Test 01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yvonn\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\yvonn\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\yvonn\\.nuget\\packages\\system.componentmodel.composition\\8.0.0\\system.componentmodel.composition.8.0.0.nupkg.sha512",
+    "C:\\Users\\yvonn\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2 @@
+C:\Users\yvonn\source\repos\Beginer Test 01\Beginer Test 01\obj\Debug\Beginer Test 01.csproj.AssemblyReference.cache
+C:\Users\yvonn\source\repos\Beginer Test 01\Beginer Test 01\obj\Debug\Beginer Test 01.csproj.CoreCompileInputs.cache
